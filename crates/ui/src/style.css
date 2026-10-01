@@ -1,0 +1,9 @@
+.top-bar {
+    background-color: rgba(0, 0, 0, 0.2);
+    min-height: 40px;
+    border: none;
+}
+
+.bold {
+    font-weight: bold;
+}
